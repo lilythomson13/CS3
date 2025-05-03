@@ -5,6 +5,10 @@ This case study examines the public sentiment in repsonse to major shutdowns imp
 
 For full details on the case study's purpose, deliverables, and grading criteria, please refer to the hook document and rubric included in this repository. 
 
+### Data and Code:
+The Twitter data can be a
+[Go to the Materials folder](./Materials/)
+
 
 
 ### Site Structure  
