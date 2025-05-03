@@ -1,7 +1,10 @@
-# CS3
+# COVID-19 Sentiment Analysis Case Study 
+
+### Goal:
+Investigate whether the sentiments of Twitter comments surrounding COVID-19 were more positive or negative the day of or a few weeks after states began implementing major shutdowns on March 15, 2020.
 
 
-## References (IEEE documentation style) 
+### References (IEEE documentation style) 
 [1] Centers for Disease Control and Prevention. “CDC Museum COVID-19 Timeline” [Online]. Available: https://www.cdc.gov/museum/timeline/covid19.html  
 [2] Datatattle. (2020). “COVID-19 NLP Text Classification Dataset” [Online]. Available: https://www.kaggle.com/datasets/datatattle/covid-19-nlp-text-classification            
 [3] GeeksforGeeks. (2024, December, 11). “Sentiment Analysis using VADER” [Online]. Available: https://www.geeksforgeeks.org/python-sentiment-analysis-using-vader/
