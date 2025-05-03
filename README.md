@@ -9,7 +9,25 @@ For full details on the case study's purpose, deliverables, and grading criteria
 
 ### Folder Structure 
 
-<pre> ## Folder Structure <code> ``` . ├── README.md ├── hook_document.pdf ├── rubric.pdf ├── materials/ │ ├── covid_timeline.csv │ ├── public_opinion_data.csv │ ├── vader_documentation.pdf │ └── starter_code.py ├── analysis/ │ └── sentiment_analysis.ipynb ├── output/ │ └── sentiment_results.csv └── report/ └── case_study_report.pdf ``` </code> </pre>
+## 📂 Folder Structure
+
+```
+.
+├── README.md
+├── hook_document.pdf
+├── rubric.pdf
+├── materials/
+│   ├── covid_timeline.csv
+│   ├── public_opinion_data.csv
+│   ├── vader_documentation.pdf
+│   └── starter_code.py
+├── analysis/
+│   └── sentiment_analysis.ipynb
+├── output/
+│   └── sentiment_results.csv
+└── report/
+    └── case_study_report.pdf
+```
 
 
     
