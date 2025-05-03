@@ -1,23 +1,30 @@
 # COVID-19 Sentiment Analysis Case Study 
 
-### Goal:
-This case study examines the public sentiment in repsonse to major shutdowns implemented on March 15, 2020 due to the COVID-19 pandemic. Using data collected from public sources and using the VADER sentiment analysis tool, this project explored how individuals reacted to one of the most pivotal moments early in the pandemic. 
+### Overview:
+This case study examines the public sentiment in repsonse to major shutdowns implemented on March 15, 2020 due to the COVID-19 pandemic. Using sentiment analysis techniques (specifically VADER), the project explores how public opinion shifted in the days surrounding this event. 
 
-### Case Study Assignment  
-The hook document and the rubric document have the necessary information about the case study and the required deliverables. The materials folder has resources to give context about COVID-19 timeline and information about public opinion, as well as documentation abotu the VADER sentiment analysis and code to get your started. 
+For full details on the case study's purpose, deliverables, and grading criteria, please refer to the hook document and rubric included in this repository. 
+
+
 
 ### Folder Structure 
 
 .
 ├── README.md
-├── LICENSE.md
 ├── hook_document.pdf
-├── COVID-19 Sentiment Analysis Case Study Rubric.pdf
-├── Materials/
+├── rubric.pdf
+├── materials/
 │   ├── covid_timeline.csv
 │   ├── public_opinion_data.csv
 │   ├── vader_documentation.pdf
 │   └── starter_code.py
+├── analysis/
+│   └── sentiment_analysis.ipynb
+├── output/
+│   └── sentiment_results.csv
+└── report/
+    └── case_study_report.pdf
+
 
     
 ### References 
