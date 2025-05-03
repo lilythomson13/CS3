@@ -34,5 +34,5 @@ The Twitter data is located in the `DATA` folder. For additional resources to as
 ### Reference Materials 
 [1] C. Deane, “A year of U.S. public opinion on the coronavirus pandemic,” Pew Research Center, https://www.pewresearch.org/social-trends/2021/03/05/a-year-of-u-s-public-opinion-on-the-coronavirus-pandemic/  
 [2] Centers for Disease Control and Prevention. “CDC Museum COVID-19 Timeline” [Online]. Available: https://www.cdc.gov/museum/timeline/covid19.html  
-[3] Datatattle. (2020). “COVID-19 NLP Text Classification Dataset” [Online]. Available: https://www.kaggle.com/datasets/datatattle/covid-19-nlp-text-classification                   [4] GeeksforGeeks. (2024, December, 11). “Sentiment Analysis using VADER” [Online]. Available: https://www.geeksforgeeks.org/python-sentiment-analysis-using-vader/    
+[3] Datatattle. (2020). “COVID-19 NLP Text Classification Dataset” [Online]. Available: https://www.kaggle.com/datasets/datatattle/covid-19-nlp-text-classification                     [4] GeeksforGeeks. (2024, December, 11). “Sentiment Analysis using VADER” [Online]. Available: https://www.geeksforgeeks.org/python-sentiment-analysis-using-vader/    
 
