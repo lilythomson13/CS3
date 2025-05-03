@@ -7,26 +7,26 @@ For full details on the case study's purpose, deliverables, and grading criteria
 
 
 
-### Folder Structure 
-
-## 📂 Folder Structure
+### Site Structure  
 
 ```
 .
+├── DATA/
+│   ├── CORONA_NLP_test.csv
+│   ├── CORONA_NLP_train.csv
+│   ├── df_us_with_sentiment.csv
+├── Materials/
+│   ├── Code
+│   │   ├── code.py
+│   │   └── code.py
+│   ├── A Year of U.S. Public Opinion on the Coronavirus Pandemic _ Pew Research Center.html
+│   ├── CDC Museum COVID-19 Timeline _ David J. Sencer CDC Museum _ CDC.html
+│   ├── CDC Museum COVID-19 Timeline _ David J. Sencer CDC Museum _ CDC.html
+├── COVID-19 Sentiment Analysis Case Study Rubric.pdf
+├── CS3_hook.pdf
+├── LICENSE
 ├── README.md
-├── hook_document.pdf
-├── rubric.pdf
-├── materials/
-│   ├── covid_timeline.csv
-│   ├── public_opinion_data.csv
-│   ├── vader_documentation.pdf
-│   └── starter_code.py
-├── analysis/
-│   └── sentiment_analysis.ipynb
-├── output/
-│   └── sentiment_results.csv
-└── report/
-    └── case_study_report.pdf
+
 ```
 
 
