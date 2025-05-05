@@ -15,7 +15,6 @@ The Twitter data is located in the `DATA` folder. For additional resources to as
 ├── DATA/
 │   ├── CORONA_NLP_test.csv
 │   ├── CORONA_NLP_train.csv
-│   ├── df_us_with_sentiment.csv
 ├── Materials/
 │   ├── Code
 │   │   ├── code.py
